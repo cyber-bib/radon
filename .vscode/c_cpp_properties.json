@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "C:/dev/vst/VST3_SDK/src",
+        "${workspaceFolder}/**"
+      ],
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ]
+}
